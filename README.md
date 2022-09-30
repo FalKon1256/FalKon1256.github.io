@@ -5,4 +5,4 @@ This website involves several features, such as flexible interface, navigation b
 
 In doing so, the concept of responsive web design (RWD) can be realized, and I hope vistors may find some inspiration and pleasure from this website demonstration when browsing on PCs, laptops, or smartphones.
 
-![image](https://user-images.githubusercontent.com/92590630/193318773-3ccc25f4-dfd2-4e28-a909-c0e1794ee0bc.png)
+![homepage](https://user-images.githubusercontent.com/92590630/193330299-4eee9602-9339-47d8-bc6e-047b58e27d90.gif)
