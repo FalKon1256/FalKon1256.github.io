@@ -1,4 +1,5 @@
-## CS50 (2021) - Problem set 8 homepage demo (for practice purpose only)
+## CS50 (2021) - Problem set 8 homepage demo (https://falkon1256.github.io/index.html, for practice purpose only)
+
 This is the demonstration of building up my personal website with JavaScrpt, CSS, and HTML.
 
 This website involves several features, such as flexible interface, navigation bar, and interactive designs, in order to provide user-friendly environment.
