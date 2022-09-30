@@ -1,6 +1,6 @@
 ## CS50 (2021) - Problem set 8 homepage demo
 
-# Please feel free to visit https://falkon1256.github.io/index.html (for practice purpose only)
+Please feel free to visit https://falkon1256.github.io/index.html (for practice purpose only)
 
 This is the demonstration of building up my personal website with JavaScrpt, CSS, and HTML.
 
