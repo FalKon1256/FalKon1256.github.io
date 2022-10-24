@@ -2,11 +2,11 @@
 
 Please feel free to visit https://falkon1256.github.io/index.html (for practice purpose only)
 
-This is the demonstration of building up my personal website with JavaScrpt, CSS, and HTML.
+This is the demonstration of building up my personal website with JavaScript, CSS, and HTML.
 
 This website involves several features, such as flexible interface, navigation bar, and interactive designs, in order to provide user-friendly environment.
 
-In doing so, the concept of responsive web design (RWD) can be realized, and I hope vistors may find some inspiration and pleasure from this website demonstration when browsing on PCs, laptops, or smartphones.
+In doing so, the concept of responsive web design (RWD) can be realized, and I hope visitors may find some inspiration and pleasure from this website demonstration when browsing on PCs, laptops, or smartphones.
 
 ![homepage github demo 1](https://user-images.githubusercontent.com/92590630/193338864-6c886f9e-aaf8-4d17-8001-932456ad6ae2.gif)
 
